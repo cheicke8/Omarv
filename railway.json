@@ -1,0 +1,4 @@
+{
+  "buildCommand": "",
+  "startCommand": "xray -c /etc/xray/config.json"
+}
